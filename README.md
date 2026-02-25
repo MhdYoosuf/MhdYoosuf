@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm Yoosuf 👋
+Frontend Developer | React.js • Next.js • Tailwind
 
+## 👩‍💻 About Me
+
+🎯 Junior Frontend Developer focused on React & Next.js
+🧠 Strong in components, state management, and API integration
+🎨 I care about details, UX, and clean code
+🚀 Always learning & shipping real projects
 <!--
 **MhdYoosuf/MhdYoosuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
