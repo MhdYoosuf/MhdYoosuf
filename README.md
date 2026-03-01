@@ -3,7 +3,7 @@ Frontend Developer | React.js • Next.js • Tailwind
 
 ## 👩‍💻 About Me
 
-🎯 Junior Frontend Developer focused on React & Next.js
+🎯 Junior Full-stack Developer focused on React & Node.js
 🧠 Strong in components, state management, and API integration
 🎨 I care about details, UX, and clean code
 🚀 Always learning & shipping real projects
